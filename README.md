@@ -1,5 +1,8 @@
-# Portfolio_1 : Python Code
-## All of my sample of Python Code that I've been write.
+# Portfolio
+
+## 1. My unfinished page : https://ridhwanrx.github.io/
+
+## 2. All of sample of my Python Code.
 
 1. Demonstration of data visualisation using Python module, MATPLOTLIB
  https://github.com/ridhwanrx/portfolio_pythoncode/blob/9cb4f3f992e1c36ef76f7da08fc756a6642df84e/matplotlib_visualisation_demo.pdf
